@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-null-array"
-click B href "https://github.com/stdlib-js/assert-is-null-array/tree/main"
-click C href "https://github.com/stdlib-js/assert-is-null-array/tree/production"
-click D href "https://github.com/stdlib-js/assert-is-null-array/tree/esm"
-click E href "https://github.com/stdlib-js/assert-is-null-array/tree/deno"
-click F href "https://github.com/stdlib-js/assert-is-null-array/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-null-array"
+%% click B href "https://github.com/stdlib-js/assert-is-null-array/tree/main"
+%% click C href "https://github.com/stdlib-js/assert-is-null-array/tree/production"
+%% click D href "https://github.com/stdlib-js/assert-is-null-array/tree/esm"
+%% click E href "https://github.com/stdlib-js/assert-is-null-array/tree/deno"
+%% click F href "https://github.com/stdlib-js/assert-is-null-array/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/is-null-array
