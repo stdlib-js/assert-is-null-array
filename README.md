@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isNullArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-null-array@deno/mod.js';
+import isNullArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-null-array@v0.2.2-deno/mod.js';
 ```
 
 #### isNullArray( value )
@@ -68,7 +68,7 @@ bool = isNullArray( [ null, NaN, null ] );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isNullArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-null-array@deno/mod.js';
+import isNullArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-null-array@v0.2.2-deno/mod.js';
 
 var bool = isNullArray( [ null ] );
 // returns true
