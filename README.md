@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isNullArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-null-array@esm/index.mjs';
+import isNullArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-null-array@v0.2.3-esm/index.mjs';
 ```
 
 #### isNullArray( value )
@@ -73,7 +73,7 @@ bool = isNullArray( [ null, NaN, null ] );
 <body>
 <script type="module">
 
-import isNullArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-null-array@esm/index.mjs';
+import isNullArray from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-null-array@v0.2.3-esm/index.mjs';
 
 var bool = isNullArray( [ null ] );
 // returns true
